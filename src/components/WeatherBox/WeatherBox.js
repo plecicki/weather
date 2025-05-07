@@ -12,7 +12,8 @@ const WeatherBox = props => {
 
   const handleCityChange = useCallback((cityName) => {
     setLoading(true);
-    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=a8c2c741a470f57c6bb8c04742d3c9c8&units=metric`)
+    // eslint-disable-next-line
+    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${cityName}&appid=${process.env.REACT_APP_WEATHER_API_KEY}&units=metric`)
       .then(res => {
         if(res.status === 200) {
           return res.json()
