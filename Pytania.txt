@@ -1,0 +1,21 @@
+1. Ile osób brało udział w projekcie? Ile czasu trwał projekt i co było zadaniem w projekcie?
+W projekcie brało udział 5 osób, czterech kursantów i 1 mentor odgrywający role PMa.
+Projekt trwał trzy tygodnie, a zadaniem było dokończenie aplikacji e-commerce, gdzie napotkaliśmy takie technologie jak
+React, Redux, JavaScript, HTML, SCSS
+
+2. Jak była zorganizowana komunikacja w zespole i podział zadań na poszczególne osoby?
+Komunikowaliśmy się głównie poprzez chat, ale też mieliśmy trzy spotkania poprzez wideorozmowę. Zadania przypisywaliśmy
+sobie sami korzystając z Jira oraz tablicy Kanban.
+
+3. W jaki sposób dbaliście o jakość i spójność wynikowego kodu projektu?
+Na każdy pull request musieliśmy mieć 2 approvale od kursantów i jeden od mentora.
+Korzystaliśmy z GitHub i pluginu, który budował naszą aplikację i deployował, dzięki czemu
+mieliśmy podgląd na zmiany bez konieczności zaciągania i uruchamiania lokalnie.
+
+4. Co było największym problemem w pracy zespołowej i jak sobie z tym poradziliście?
+Największym problemem było kumulowanie się PRek, gdzie było ich bardzo dużo dostępnych do review.
+Poradziliśmy sobie wprowadzając pingowanie się na chacie, co mobilizowało do ich sprawdzania.
+
+5. Jakie widzisz korzyści z pracy zespołowej w tym projekcie?
+Znacznie większa dokładność przy zmianach w projekcie, kiedy sprawdzaliśmy sobie nawzajem kod.
+Mniejsze ryzyko wysypania się projektu w razie nieoczekiwanych okoliczności, gdy ktoś musiałby przerwać pracę.
