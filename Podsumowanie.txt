@@ -1,0 +1,25 @@
+Zadania:
+- WDP250501-13
+  https://github.com/matwjablonski/kodilla-wdp-2505-01/pull/11
+  Swipeable - obsługa swipe
+  In review
+  Punkty: 3
+- WDP250501-35
+  https://projects.kodilla.com/browse/WDP250501-35
+  Podbij wersje NODE w projekcie do 20
+  Done
+  Punkty: 1
+- WDP250501-8
+  https://projects.kodilla.com/browse/WDP250501-8
+  Użycie zmiennych do kolorów
+  Done
+  Punkty: 1
+- WDP250501-14
+  https://projects.kodilla.com/browse/WDP250501-14
+  RWD - menu główne
+  Done
+  Punkty: 1
+
+Podsumowanie:
+Dokończone zadania: 3 (3 punkty)
+Zadania w review: 1 (3 punkty)
